@@ -1,2 +1,2 @@
-# ProjetoCurso
+# ProjetoCursoComPandas
  Python
